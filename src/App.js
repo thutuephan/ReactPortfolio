@@ -1,14 +1,13 @@
 import React from 'react'
 import PortfolioContainer from './components'
-import Footer from 'react'
+import Footer from './components'
 
 
 const App = () => {
   const styles = {
     backgroundColor: "#A0E7E5",
     color: "#FFAEBC",
-    
-
+  
   }
 
   return (

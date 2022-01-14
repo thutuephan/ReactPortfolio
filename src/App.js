@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div>
       <main>
-        <PortfolioContainer styles={styles} />
+        {/*<PortfolioContainer styles={styles} /> */}
 
       </main>
       <Footer />

@@ -1,6 +1,6 @@
 import React from 'react'
-import PortfolioContainer from './components'
-import Footer from './components'
+import PortfolioContainer from './components/PortfolioContainer'
+import Footer from './components/Footer'
 
 
 const App = () => {

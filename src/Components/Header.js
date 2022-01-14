@@ -13,7 +13,8 @@ const Header = () => {
     return (
         
         <div style= {style.card}>
-            Alice's Portfolio
+            <Navigation currentPage/>
+            
         </div>
     )
 }

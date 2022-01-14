@@ -5,10 +5,14 @@ import PortfolioContainer from './components'
 const App = () => {
   return (
     <div>
-            <PortfolioContainer />
+      <main>
+        <PortfolioContainer />
+
+      </main>
+      <Footer />
 
     </div>
-      
+
   )
 }
 

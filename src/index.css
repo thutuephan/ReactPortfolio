@@ -15,7 +15,16 @@ p {
   color: red;
   text-align: center;
 }
-ul {
+footer ul {
   list-style: none;
   text-align: center;
+  justify-content: center;
+  display: flex;
+
+}
+.fab {
+  padding: 10px;
+}
+.fab:hover {
+  color: grey;
 }

@@ -12,8 +12,10 @@ code {
     monospace;
 }
 p {
-  color: red;
+  color: black;
   text-align: center;
+  font-size: 14;
+  font-weight: bold;
 }
 footer ul {
   list-style: none;

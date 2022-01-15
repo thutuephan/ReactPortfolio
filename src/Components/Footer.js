@@ -18,7 +18,7 @@ function Footer() {
                     </ul>
 
                 </div>
-                <p> Created by Alice</p>
+                <p> Created by Thu Phan</p>
 
             </footer>
             
